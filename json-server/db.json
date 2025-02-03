@@ -1,0 +1,212 @@
+{
+  "campaigns": [
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440001",
+      "name": "Campaña Verano",
+      "creationDate": "2023-05-01T00:00:00Z",
+      "callStartDate": "2023-06-01T00:00:00Z",
+      "record": true,
+      "state": "activa",
+      "clients": [
+        {
+          "name": "Juan",
+          "lastname": "Perez",
+          "telephone": "4124124",
+          "id": "77ac9a66-6c0a-4c09-88a6-4f57f8880001"
+        },
+        {
+          "name": "Maria",
+          "lastname": "Gomez",
+          "telephone": "521351235",
+          "id": "99a5b86f-6d2a-4c93-9c3f-3b27f7710002"
+        },
+        {
+          "name": "grerag",
+          "lastname": "agegrgr",
+          "telephone": "1442141412214",
+          "id": "15d4e214-3586-4793-9a83-374c3f31af58"
+        },
+        {
+          "name": "wrefw",
+          "lastname": "wfefewafawe",
+          "telephone": "124124124",
+          "id": "a8f08822-34bf-4a33-89e8-63c3942f820e"
+        },
+        {
+          "name": "fawefawfeaw",
+          "lastname": "feawfeawf",
+          "telephone": "124124124124142",
+          "id": "1cd1ef98-825c-4800-a9c3-84892bc22ecd"
+        },
+        {
+          "name": "adsfadsf",
+          "lastname": "adfadsfaf",
+          "telephone": "213412341234",
+          "id": "91547fba-264b-4174-bb3e-4b04f1b77cb0"
+        }
+      ]
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440003",
+      "name": "Campaña Navidad",
+      "creationDate": "2023-11-01T00:00:00Z",
+      "callStartDate": "2023-12-01T00:00:00Z",
+      "record": true,
+      "state": "finalizada",
+      "clients": [
+        {
+          "name": "Pedro",
+          "lastname": "Lopez",
+          "telephone": "6436346346",
+          "id": "77ac9a66-6c0a-4c09-88a6-4f57f8880006"
+        },
+        {
+          "name": "Luis",
+          "lastname": "Fernandez",
+          "telephone": "456456456",
+          "id": "99a5b86f-6d2a-4c93-9c3f-3b27f7710007"
+        },
+        {
+          "name": "Gabriela",
+          "lastname": "Castro",
+          "telephone": "8678678678",
+          "id": "11bb2c33-4e5d-6f7a-8b9c-0d1e2f333008"
+        }
+      ]
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440002",
+      "name": "Campaña Otoño",
+      "creationDate": "2023-08-15T00:00:00Z",
+      "callStartDate": "2023-09-01T00:00:00Z",
+      "record": false,
+      "state": "en espera",
+      "clients": [
+        {
+          "name": "Ana",
+          "lastname": "Garcia",
+          "telephone": "34573457376",
+          "id": "77ac9a66-6c0a-4c09-88a6-4f57f8880003"
+        },
+        {
+          "name": "Pablo",
+          "lastname": "Torres",
+          "telephone": "73457367567",
+          "id": "99a5b86f-6d2a-4c93-9c3f-3b27f7710004"
+        },
+        {
+          "name": "Sofia",
+          "lastname": "Ramirez",
+          "telephone": "354734572",
+          "id": "11bb2c33-4e5d-6f7a-8b9c-0d1e2f333005"
+        }
+      ]
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440402",
+      "name": "Campaña Otoño-2",
+      "creationDate": "2023-08-15T00:00:00Z",
+      "callStartDate": "2023-09-01T00:00:00Z",
+      "record": true,
+      "state": "en espera",
+      "clients": [
+        {
+          "name": "Ana",
+          "lastname": "Garcia",
+          "telephone": "34573457376",
+          "id": "77ac9a66-6c0a-4c09-88a6-4f57f8880003"
+        },
+        {
+          "name": "Pablo",
+          "lastname": "Torres",
+          "telephone": "73457367567",
+          "id": "99a5b86f-6d2a-4c93-9c3f-3b27f7710004"
+        },
+        {
+          "name": "Sofia",
+          "lastname": "Ramirez",
+          "telephone": "354734572",
+          "id": "11bb2c33-4e5d-6f7a-8b9c-0d1e2f333005"
+        }
+      ]
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440004",
+      "name": "Campaña Primavera",
+      "creationDate": "2024-02-01T00:00:00Z",
+      "callStartDate": "2024-03-01T00:00:00Z",
+      "record": true,
+      "state": "activa",
+      "clients": [
+        {
+          "name": "Laura",
+          "lastname": "Martinez",
+          "telephone": "235235235",
+          "id": "77ac9a66-6c0a-4c09-88a6-4f57f8880009"
+        },
+        {
+          "name": "Ricardo",
+          "lastname": "Suarez",
+          "telephone": "235235235235",
+          "id": "99a5b86f-6d2a-4c93-9c3f-3b27f7710010"
+        }
+      ]
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440005",
+      "name": "Campaña Black Friday",
+      "creationDate": "2023-10-15T00:00:00Z",
+      "callStartDate": "2023-11-20T00:00:00Z",
+      "record": false,
+      "state": "finalizada",
+      "clients": [
+        {
+          "name": "Carlos",
+          "lastname": "Ramirez",
+          "telephone": "34573457",
+          "id": "77ac9a66-6c0a-4c09-88a6-4f57f8880011"
+        },
+        {
+          "name": "Martina",
+          "lastname": "Alonso",
+          "telephone": "345734573475",
+          "id": "99a5b86f-6d2a-4c93-9c3f-3b27f7710012"
+        },
+        {
+          "name": "Diego",
+          "lastname": "Vargas",
+          "telephone": "568568568",
+          "id": "11bb2c33-4e5d-6f7a-8b9c-0d1e2f333013"
+        }
+      ]
+    },
+    {
+      "name": "Venta Final",
+      "creationDate": "2025-02-02T13:05:51.263Z",
+      "callStartDate": "2025-02-04T12:05:51.264Z",
+      "record": true,
+      "clients": [
+        {
+          "name": "Juan",
+          "lastname": "Perez",
+          "telephone": "351546213",
+          "id": "4c28d4f0-7ff9-4e75-ad8e-3f67105e45ae"
+        },
+        {
+          "name": "Roman",
+          "lastname": "Lopez",
+          "telephone": "235235235",
+          "id": "ba7ef219-96b5-4966-8976-6ce9b79e96cd"
+        },
+        {
+          "name": "Ernesto",
+          "lastname": "Segovia",
+          "telephone": "12412412421",
+          "id": "43887b0d-8de2-4170-a627-6f988b7d8691"
+        }
+      ],
+      "id": "9e9a2bfe-a12d-453a-83d4-5dde156290b0",
+      "state": "activa"
+    }
+  ]
+}
